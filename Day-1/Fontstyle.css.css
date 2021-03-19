@@ -1,0 +1,31 @@
+#para{
+	background:green;
+	color:white;
+	font-size:30px;
+	border:3px dashed red;
+	padding:50px 20px;
+	margin: 50px 50px;
+}
+#normal{
+	font-style:normal;
+}
+#italic{
+	font-style:italic;
+}
+#oblique{
+	font-style:oblique;
+}
+#Bold{
+	font-weight:bold;
+}
+#lineheight{
+	font-size:20px
+	
+}
+#smallcaps{
+	font-variant:small-caps;
+	font-size:xx-large;
+}
+#lighter{
+	font-style:lighter;
+}

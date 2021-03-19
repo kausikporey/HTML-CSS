@@ -1,0 +1,26 @@
+#top-right{
+	text-align:right;
+}
+#para{
+	text-align:center;
+	background:green;
+	color:white;
+}
+h1{
+	position:fixed;
+	background:black;
+	color:white;
+}
+#rp1{
+	background:black;
+	color:green;
+	height:100px;
+
+}
+#rp2{
+	position:relative;
+	left:20px;
+	top:20px;
+	background:green;
+	color:blue;
+}

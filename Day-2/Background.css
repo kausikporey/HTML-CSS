@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding:0;
+}
+div{
+    background-image:radial-gradient(blue,grey,green,red,orange);
+	background-size:cover;
+	width:100%;
+	height:100vh;
+	background-position:center;
+	overflow-x:hidden;
+	position:relative;
+}
+/*
+background-image:linear gradient(to right,blue,grey,green,red,orange);
+background-image:radial-gardint(red,green,blue,orange,blue);
+background-repeat:x-reapeat;
+background-repeat:y-repeat;
+*/

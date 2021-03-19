@@ -1,0 +1,10 @@
+#list{
+	background-color:grey;
+	height:100px;
+	width:50px;
+	padding:50px 50px;
+	margin:100px 50px;
+}
+li:nth-child(2n){
+	color:white;
+}
